@@ -1,0 +1,1 @@
+# odoo_15c_module_creator
